@@ -42,7 +42,7 @@
     "gulp-sass": "^2.3.2",
     "gulp-scss-lint": "^0.4.0",
     "gulp-shell": "^0.5.2",
-    "mocha": "^3.1.2",
+    "mocha": "^8.3.2",
     "shelljs": "^0.7.4",
     "sinon": "^1.17.6"
   },
